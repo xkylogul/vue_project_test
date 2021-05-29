@@ -1,5 +1,5 @@
 <template>
-<div>这是ashow组件{{content}}</div>
+<div>这是ashow组件，这是我们所记住的{{content}}</div>
 </template>
 <script>
 export default{
